@@ -1,4 +1,6 @@
 iLamb
 =====
 
-Created a small application for a hackaton competition. Contains a small app full of security holes;)
+I am the Lamb! You are the perptrator! 
+
+A not so secura demo application, used as a target for a hackaton.
